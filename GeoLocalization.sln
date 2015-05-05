@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geo.BL", "Geo.BL\Geo.BL.csproj", "{BB05AD4C-FF9C-47AE-8921-9A33041D6FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geo.UI", "Geo.UI\Geo.UI.csproj", "{D1D1768D-F756-4353-97C0-DAD8CB4E9365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geo.Model", "Geo.Model\Geo.Model.csproj", "{B529FE27-03D2-44B8-99BE-D6630B4A6CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB05AD4C-FF9C-47AE-8921-9A33041D6FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB05AD4C-FF9C-47AE-8921-9A33041D6FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB05AD4C-FF9C-47AE-8921-9A33041D6FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB05AD4C-FF9C-47AE-8921-9A33041D6FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D1768D-F756-4353-97C0-DAD8CB4E9365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D1768D-F756-4353-97C0-DAD8CB4E9365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D1768D-F756-4353-97C0-DAD8CB4E9365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D1768D-F756-4353-97C0-DAD8CB4E9365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B529FE27-03D2-44B8-99BE-D6630B4A6CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B529FE27-03D2-44B8-99BE-D6630B4A6CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B529FE27-03D2-44B8-99BE-D6630B4A6CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B529FE27-03D2-44B8-99BE-D6630B4A6CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
