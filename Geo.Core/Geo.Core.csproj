@@ -43,10 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="InformationServices.cs" />
-    <Compile Include="Model\IRouteInfoRequest.cs" />
+    <Compile Include="InformationServices.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\IRouteInfoRequest.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Model\IRouteInfoResponse.cs" />
-    <Compile Include="Model\RouteInfoRequest.cs" />
+    <Compile Include="Model\RouteInfoRequest.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Model\RouteInfoResponse.cs" />
     <Compile Include="Model\RouteTypes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
