@@ -13,7 +13,7 @@ namespace Geo.Test
         {
             var services = new InformationServices("c13iyCvmcC9mzwkLd0LCbCBHcXYD5mUA5m2jNGutNXK6NJc6NJt=");
 
-            var routeInfoRequest = new RouteInfoRequest("R. Correia de Lemos", 594, "São Paulo", "SP", RouteTypes.Fastest);
+            var routeInfoRequest = new RouteInfoRequest("R. Correia de Lemos", 1000, "São Paulo", "SP", RouteTypes.Fastest);
 
             var routeInfoResponse = services.GetRouteInformation(routeInfoRequest);
 
