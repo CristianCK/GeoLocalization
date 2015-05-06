@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Web
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geo.BL", "Geo.BL\Geo.BL.csproj", "{BB05AD4C-FF9C-47AE-8921-9A33041D6FE1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geo.Model", "Geo.Model\Geo.Model.csproj", "{B529FE27-03D2-44B8-99BE-D6630B4A6CFB}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geo.Test", "Geo.Test\Geo.Test.csproj", "{E32F1534-1CA3-4084-99AC-0ABE05A91E1A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geo.Core", "Geo.Core\Geo.Core.csproj", "{89CAEC8D-0309-48A4-9D80-8CE575FE501E}"
@@ -17,14 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BB05AD4C-FF9C-47AE-8921-9A33041D6FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BB05AD4C-FF9C-47AE-8921-9A33041D6FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BB05AD4C-FF9C-47AE-8921-9A33041D6FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BB05AD4C-FF9C-47AE-8921-9A33041D6FE1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B529FE27-03D2-44B8-99BE-D6630B4A6CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B529FE27-03D2-44B8-99BE-D6630B4A6CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B529FE27-03D2-44B8-99BE-D6630B4A6CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B529FE27-03D2-44B8-99BE-D6630B4A6CFB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E32F1534-1CA3-4084-99AC-0ABE05A91E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E32F1534-1CA3-4084-99AC-0ABE05A91E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E32F1534-1CA3-4084-99AC-0ABE05A91E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
